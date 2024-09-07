@@ -7,7 +7,7 @@ This dashboard provides a comprehensive analysis of the crude birth rate in Mala
 ## Problem Statement
 The purpose of this dashboard is to visualize and analyze the trends in the crude birth rate across various ethnic groups, genders, and years in Malaysia. By understanding these patterns, stakeholders can make informed decisions regarding healthcare planning, resource allocation, and population policies. The dashboard helps identify declining or increasing trends in birth rates for different ethnic groups, providing a foundation for deeper analysis and intervention strategies.
 
-### Steps followed 
+## Steps followed 
 
 - Step 1 : Data was collected on crude birth rates in Malaysia from 2001 to 2019, categorized by ethnic groups and sex.
 - Step 2: The data was cleaned and preprocessed to ensure accuracy and completeness.
